@@ -1,9 +1,0 @@
-E:\Desktop\HookTest\HookTest\bin\Debug\HookTest.exe
-E:\Desktop\HookTest\HookTest\bin\Debug\HookTest.pdb
-E:\Desktop\HookTest\HookTest\obj\Debug\HookTest.MainForm.resources
-E:\Desktop\HookTest\HookTest\obj\Debug\HookTest.Properties.Resources.resources
-E:\Desktop\HookTest\HookTest\obj\Debug\HookTest.csproj.GenerateResource.cache
-E:\Desktop\HookTest\HookTest\obj\Debug\HookTest.csproj.CoreCompileInputs.cache
-E:\Desktop\HookTest\HookTest\obj\Debug\HookTest.exe
-E:\Desktop\HookTest\HookTest\obj\Debug\HookTest.pdb
-E:\Desktop\HookTest\HookTest\obj\Debug\HookTest.csprojAssemblyReference.cache
